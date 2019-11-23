@@ -1,0 +1,23 @@
+{
+  "name": "moleculer-elasticsearch-info-exporter",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "microservice",
+    "moleculer",
+    "elasticsearch"
+  ],
+  "author": "juanmcristobal",
+  "license": "MIT",
+  "dependencies": {
+    "@elastic/elasticsearch": "^7.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:juanmcristobal/moleculer-elasticsearch-info-exporter.git"
+  }
+}
